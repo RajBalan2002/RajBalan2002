@@ -1,9 +1,9 @@
-## Hi there 👋
-I’m Raj
+## Hi there I’m Raj👋
 
 I’m a Computer Engineering graduate student with a strong focus on ASIC/FPGA Design & Verification and Embedded Systems. I enjoy building reliable, high-performance hardware—from RTL design and UVM-based verification to FPGA prototyping and system bring-up.
 
 🔧 What I work on
+
 ASIC / FPGA Design & Verification: RTL (Verilog/SystemVerilog), UVM, functional & coverage-driven verification
 
 Computer Architecture: Pipelined processors, AXI/I2C protocols, SoC-level concepts
@@ -13,6 +13,7 @@ Embedded Systems: Bare-metal & RTOS-based firmware, hardware/software integratio
 Automation & Tooling: Regression scripting, test automation, workflow optimization
 
 🧠 Technical Skills
+
 HDL: Verilog, SystemVerilog, VHDL
 
 Verification: UVM, functional coverage, assertions, waveform debugging
@@ -24,6 +25,7 @@ EDA & Tools: Vivado, ModelSim/Questa, Synopsys VCS (simulation), Git
 Platforms: FPGA (Basys/Xilinx), embedded MCUs, lab bring-up
 
 🚀 What I’m aiming for
+
 I’m actively seeking internship and full-time roles in Design Verification, ASIC/FPGA Design, and Embedded Systems, where I can contribute to production-quality hardware and continue learning from industry experts.
 
 📫 How to reach me
