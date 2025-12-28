@@ -26,6 +26,12 @@ Platforms: FPGA (Basys/Xilinx), embedded MCUs, lab bring-up
 🚀 What I’m aiming for
 I’m actively seeking internship and full-time roles in Design Verification, ASIC/FPGA Design, and Embedded Systems, where I can contribute to production-quality hardware and continue learning from industry experts.
 
+📫 How to reach me
+
+📧 Email: rajbalan06@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/raj-balan-palanivel/
+
 <!--
 **RajBalan2002/RajBalan2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
